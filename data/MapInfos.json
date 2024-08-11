@@ -1,0 +1,22 @@
+[
+null,
+{"id":1,"expanded":true,"name":"MAP001","order":1,"parentId":0,"scrollX":592.3636363636364,"scrollY":411.8181818181818},
+{"id":2,"expanded":true,"name":"天空之城","order":9,"parentId":0,"scrollX":1278,"scrollY":1476.6},
+{"id":3,"expanded":true,"name":"新手村","order":2,"parentId":1,"scrollX":1336.3636363636365,"scrollY":1516.909090909091},
+{"id":4,"expanded":false,"name":"武器商店","order":3,"parentId":3,"scrollX":4344,"scrollY":3020},
+{"id":5,"expanded":false,"name":"盔甲商店","order":4,"parentId":3,"scrollX":2369.4545454545455,"scrollY":1647.2727272727273},
+{"id":6,"expanded":false,"name":"道具商店","order":5,"parentId":3,"scrollX":2369.4545454545455,"scrollY":1647.2727272727273},
+{"id":7,"expanded":false,"name":"旅館 1F","order":6,"parentId":3,"scrollX":2369.4545454545455,"scrollY":1647.2727272727273},
+{"id":8,"expanded":false,"name":"酒吧","order":7,"parentId":3,"scrollX":2896,"scrollY":2013.3333333333333},
+{"id":9,"expanded":false,"name":"旅館 2F","order":8,"parentId":3,"scrollX":651.6,"scrollY":453},
+{"id":10,"expanded":false,"name":"冒險者公會","order":12,"parentId":2,"scrollX":1326,"scrollY":1476.6},
+{"id":11,"expanded":false,"name":"轉移大廳","order":10,"parentId":2,"scrollX":642,"scrollY":507},
+{"id":12,"expanded":false,"name":"旅館 1F","order":13,"parentId":2,"scrollX":642,"scrollY":507},
+{"id":13,"expanded":false,"name":"旅館 2F","order":15,"parentId":2,"scrollX":651.6,"scrollY":453},
+{"id":14,"expanded":false,"name":"道具店","order":14,"parentId":2,"scrollX":651.6,"scrollY":453},
+{"id":15,"expanded":false,"name":"餐廳","order":11,"parentId":2,"scrollX":2369.4545454545455,"scrollY":1647.2727272727273},
+{"id":16,"expanded":true,"name":"被詛咒的洞窟","order":16,"parentId":0,"scrollX":2334,"scrollY":1647},
+{"id":17,"expanded":false,"name":"黑暗boss房","order":17,"parentId":16,"scrollX":642,"scrollY":503.4},
+{"id":18,"expanded":false,"name":"空島","order":18,"parentId":0,"scrollX":2465.4545454545455,"scrollY":1786.909090909091},
+{"id":19,"expanded":false,"name":"結局","order":19,"parentId":0,"scrollX":2369.4545454545455,"scrollY":1647.2727272727273}
+]
